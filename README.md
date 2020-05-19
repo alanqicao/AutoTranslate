@@ -5,4 +5,4 @@
 ## Google language support
 #### https://cloud.google.com/translate/docs/languages
 
-#### Translated Json file is inside folder /temp/ 
+#### Translated Json file is inside folder /tmp/ 
